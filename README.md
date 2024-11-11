@@ -7,7 +7,7 @@
 
 [![stars](https://img.shields.io/github/stars/AndersonShelby/Deskify?color=C9CBFF&labelColor=1A1B26&style=for-the-badge)](https://github.com/AndersonShelby/Deskify/stargazers)
 [![size](https://img.shields.io/github/repo-size/AndersonShelby/Deskify?color=9ece6a&labelColor=1A1B26&style=for-the-badge)](https://github.com/AndersonShelby/Deskify)
-[![license](https://img.shields.io/github/license/AndersonShelby/Deskify?color=FCA2AA&labelColor=1A1B26&style=for-the-badge)](https://github.com/AndersonShelby/Deskigy/blob/main/LICENSE.md)
+[![license](https://img.shields.io/github/license/AndersonShelby/Deskify?color=FCA2AA&labelColor=1A1B26&style=for-the-badge)](https://github.com/AndersonShelby/Deskify/blob/main/LICENSE.md)
 
 </div>
 
