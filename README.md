@@ -11,7 +11,7 @@
 
 ---
 
-# Deskify
+# Deskify 🚀 - Customize your Linux Desktop easily
 
 > Transforme e personalize seu ambiente Linux com facilidade.
 
