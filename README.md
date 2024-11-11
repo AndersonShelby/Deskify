@@ -1,4 +1,4 @@
-<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
+<h1 align="center"> ━━━━━━  ❖  ━━━━━━ </h1>
 
 ![](https://github.com/AndersonShelby/Deskify/blob/main/media/logo-purple.svg)
 
@@ -15,8 +15,7 @@
 
 # Deskify 🚀 - Customize your Linux Desktop easily
 
-> Transforme e personalize seu ambiente Linux com facilidade.
-
+> Note: This project is independent from the "Deskify" project for Android's Termux and serves a different purpose. While the other project focuses on getting Linux distributions on Android, this one is focused on configuring and automating desktop environments for Linux systems.
 
 
 
