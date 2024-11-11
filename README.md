@@ -1,5 +1,7 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 
+![](https://github.com/AndersonShelby/Deskify/blob/main/media/logo-purple.svg)
+
 <!-- BADGES -->
 <div align="center">
 
