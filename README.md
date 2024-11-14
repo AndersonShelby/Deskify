@@ -17,6 +17,6 @@
 
 > Note: This project is independent from the "Deskify" project for Android's Termux and serves a different purpose. While the other project focuses on getting Linux distributions on Android, this one is focused on configuring and automating desktop environments for Linux systems.
 
-
+> Note: This project is still under development, I will bring new news soon.
 
 ---
