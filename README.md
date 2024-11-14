@@ -1,6 +1,6 @@
 <h1 align="center"> ━━━━━━  ❖  ━━━━━━ </h1>
 
-![](https://github.com/AndersonShelby/Deskify/blob/main/media/logo-purple.svg)
+![](https://github.com/AndersonShelby/Deskify/blob/main/media/logo-purple-gradient.svg)
 
 <!-- BADGES -->
 <div align="center">
